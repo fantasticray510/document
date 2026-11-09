@@ -1,0 +1,55 @@
+{
+  "smartLists": [],
+  "taskMode": true,
+  "linkDates": true,
+  "tagFormat": "hash",
+  "dateFormat": "",
+  "sectionHeadingLevel": 1,
+  "showSubtasks": true,
+  "calendarProjectColors": true,
+  "calendarPriorityColors": true,
+  "inboxPath": "01_Journal/Daily/2026-11-10.md",
+  "projectFolder": "10_Projects",
+  "moveConvertedProjects": true,
+  "newTaskPosition": "top",
+  "showUndoNotices": true,
+  "density": "compact",
+  "hiddenSidebarSections": [],
+  "showFiles": true,
+  "fileSortOrder": "alphabetical",
+  "customFileOrder": false,
+  "favorites": [
+    "tag:weekend"
+  ],
+  "navOrder": {
+    "projects": [],
+    "tags": [],
+    "files": {}
+  },
+  "style": "griply",
+  "taskDetails": "sidebar",
+  "completionDates": true,
+  "completedPlacement": "keep",
+  "completedSection": "Task Log",
+  "noteGroupLabel": "name",
+  "foldedDescriptions": [],
+  "viewOptions": {
+    "inbox": {
+      "filters": [],
+      "sort": "source",
+      "descending": false,
+      "grouping": "default"
+    }
+  },
+  "viewLayouts": {
+    "projects": "gantt"
+  },
+  "viewPeriods": {},
+  "ignoredPaths": [],
+  "ignoredTags": [
+    "routine"
+  ],
+  "ignoreCodeBlockTasks": true,
+  "panelsPlaced": true,
+  "sidebarIdleView": "inbox"
+}

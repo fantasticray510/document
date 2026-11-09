@@ -1,0 +1,9 @@
+{
+  "id": "integrated-task-manager-custom",
+  "name": "Integrated Task Manager (Custom)",
+  "version": "0.25.1-custom",
+  "minAppVersion": "1.7.2",
+  "description": "Markdown-native Inbox, Today, Upcoming, All Tasks, Projects, and Clients views.",
+  "author": "Integrated Task Manager contributors (Forked)",
+  "isDesktopOnly": false
+}
