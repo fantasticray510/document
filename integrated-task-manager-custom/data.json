@@ -1,6 +1,6 @@
 {
   "smartLists": [],
-  "taskMode": true,
+  "taskMode": false,
   "linkDates": true,
   "tagFormat": "hash",
   "dateFormat": "",
