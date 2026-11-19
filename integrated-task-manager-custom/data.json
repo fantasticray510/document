@@ -1,6 +1,6 @@
 {
   "smartLists": [],
-  "taskMode": false,
+  "taskMode": true,
   "linkDates": true,
   "tagFormat": "hash",
   "dateFormat": "",
@@ -8,7 +8,7 @@
   "showSubtasks": true,
   "calendarProjectColors": true,
   "calendarPriorityColors": true,
-  "inboxPath": "01_Journal/Daily/2026-11-11.md",
+  "inboxPath": "01_Journal/Daily/2026-11-19.md",
   "projectFolder": "10_Projects",
   "moveConvertedProjects": true,
   "newTaskPosition": "top",
